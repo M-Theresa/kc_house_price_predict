@@ -12,4 +12,9 @@ Dataset: house price sold between May 2014 and May 2015 in King County
 * Replaced NaN values with the mean value
 * Removed unwanted columns
 * Calculated correlation coefficient and ploted masked heat map
+* Ploted box plots for categorical variables
 
+## Model Building and Evaluation
+* Linear Regression: R^2 score is 0.69
+* 2nd Degree Polynomial with normalization: R^2 score is 0.84
+* Ridge Regression with alpha = 0 and no normalization: R^2 score is 0.83
