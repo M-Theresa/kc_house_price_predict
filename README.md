@@ -1,3 +1,4 @@
+![DSSP](https://github.com/M-Theresa/kc_house_price_predict/blob/21ce27d888fe8486fe360f499381e10a881869a0/housing.jpeg)
 ## Project Overview
 Created a machine learning model that **estimates house sale prices for King County based on features like location, square footage, number of floors etc.**<br/>
 
