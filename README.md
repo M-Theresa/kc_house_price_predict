@@ -26,3 +26,7 @@ Dataset: house price sold between May 2014 and May 2015 in King County
 * Ridge Regression with alpha = 0 and no normalization: R^2 score is 0.83
 * Plotted distribution plot of actual value vs different models and determined 2nd Degree Polynomial produces best estimate
 ![distribution Plot](https://github.com/M-Theresa/kc_house_price_predict/blob/76832c6e84e5db8ea7b949314c736b186f4eea0e/distribution_plot.png)
+
+Randomly pick a house from the test dataset and predict the price:
+
+![predicted](https://github.com/M-Theresa/kc_house_price_predict/blob/0bf59809870dd6b7ee0fbab51d44f0fec8c3e488/predicted_price.png)
